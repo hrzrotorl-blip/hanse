@@ -361,6 +361,7 @@
 "Assets/2. Car/CarController_.cs"
 "Assets/2. Car/GameDirector_.cs"
 "Assets/HI.cs"
+"Assets/Hi2.cs"
 -langversion:9.0
 /deterministic
 /optimize-
