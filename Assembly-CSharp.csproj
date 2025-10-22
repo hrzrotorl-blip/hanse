@@ -61,6 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\HI.cs" />
+    <Compile Include="Assets\2. Car\GameDirector_.cs" />
+    <Compile Include="Assets\2. Car\CarController_.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
